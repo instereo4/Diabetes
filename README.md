@@ -9,10 +9,10 @@ Faça Login com sua conta google. Depois ao carregar o projeto ir na lateral e s
 
 Após o upload ser concluído selecione a aba **Ambiente de Execução** depois clicar em **Executar Tudo** (ou usar a tecla de atalho CTRL+F9).
 
-Pronto, agora abra a página web do projeto por meio deste link:
+Abra a página web do projeto por meio deste link:
 https://animated-quarterly-presence.anvil.app.
 
-Pronto, agora realizar a execução dos testes.
+Pronto, agora poderá realizar a execução dos testes.
 ## Screenshot
 
 ![image](https://github.com/instereo4/Diabetes/blob/main/main_page.png?raw=true)
