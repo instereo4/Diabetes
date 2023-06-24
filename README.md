@@ -23,4 +23,4 @@ Pronto, agora poderá realizar a execução dos testes.
 - [Artur Barros](https://www.github.com/instereo4)
 - [Leonardo Morais](https://github.com/leo-Morais)
 - [Matheus Barros](https://github.com/)
-- [Wesley Silva](https://github.com/)
+- [Wesley Silva](https://github.com/Wesley-Silva02)
